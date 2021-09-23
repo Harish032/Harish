@@ -23,7 +23,7 @@ public class youcandeal {
 	     System.out.println("value of i:"+i);
 	     System.out.println("value of j:"+j);
 	     driver.close();
-	    float x=parseFloat("i");
+	   
 	     
 	     if (Integer.parseInt("i")>Integer.parseInt("j"))
 	       {
