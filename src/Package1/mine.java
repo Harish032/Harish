@@ -19,7 +19,7 @@ public class mine {
 	     
 	        String title=driver.getTitle();
 	        System.out.println("This is the title: "+title);
-	        Thread.sleep(4000);
+	        Thread.sleep(3000);
 	        driver.close();
 	}
 	
