@@ -12,7 +12,7 @@ public class gmaildemo4 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\00004946\\Desktop\\Automation\\documentation\\chromedriver.exe");
+		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\00004946\\Desktop\\Automation\\drivers\\c2\\chromedriver.exe");
 	        WebDriver driver=new ChromeDriver();
 	        driver.get("https://gmail.com/");
 	        String title=driver.getTitle();

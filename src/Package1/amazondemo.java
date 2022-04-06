@@ -17,6 +17,6 @@ public class amazondemo {
 	        myD.findElement(By.linkText("Today's Deals")).click();
 	        Thread.sleep(200);
 	        myD.findElement(By.id("twotabsearchtextbox")).sendKeys("samsung zfold3"); 
-	      myD.findelement(By.id
+
 	}
 }

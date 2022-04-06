@@ -13,6 +13,7 @@ public class Crossbrowser {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter browser?Gc/IE");
+		
 		String browser=sc.next();
 		 WebDriver drive;
 		

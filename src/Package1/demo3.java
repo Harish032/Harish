@@ -7,6 +7,7 @@ public class demo3 {
 
 	
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\00004946\\Desktop\\Automation\\documentation\\geckodriver.exe");
 	    WebDriver driver=new FirefoxDriver();
